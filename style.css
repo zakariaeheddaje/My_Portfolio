@@ -211,6 +211,7 @@ section {
 .icon {
   cursor: pointer;
   height: 2rem;
+  margin: 0;
 }
 
 /* BUTTONS */
